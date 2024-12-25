@@ -1,0 +1,7 @@
+*.txt
+
+*.pkl
+
+/data
+
+.idea
